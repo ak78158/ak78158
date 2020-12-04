@@ -2,10 +2,8 @@
 
 I'm Amit Kumar a Pursuing Undergraduate Student in Computer Science Engineering (CSE) from IIIT 
 Nagpur with passion for new technologies, and always learning to add new skills in 
-my skill set.
-                         I am a hardworking person but a believer in working smart. 
-Always prepared to face any challenges in my life, and I see them as opportunities 
-that give me a chance to learn and grow. 
+my skill set.</br>
+
                      As of now, I have spent almost 2 years in learning engineering
 concepts and technologies related to Data Structure and Algorithms as well as in
 Python. 
