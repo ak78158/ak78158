@@ -2,9 +2,7 @@
 
 I'm Amit Kumar a Pursuing Undergraduate Student in Computer Science Engineering (CSE) from IIIT 
 Nagpur with passion for new technologies, and always learning to add new skills in 
-my skill set.</br>
-
-                     As of now, I have spent almost 2 years in learning engineering
+my skill set.</br>As of now, I have spent almost 2 years in learning engineering
 concepts and technologies related to Data Structure and Algorithms as well as in
 Python. 
         I am also an active competitive coder, and fond of Problem Solving. My next
