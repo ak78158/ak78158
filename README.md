@@ -12,7 +12,7 @@ step is towards learning Data Science for Statistical Analysis and Machine Learn
 - 🌱 I’m currently learning Cloud Computing.
 - 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/file/d/1piVut8Qe6Ozq88q0tWgdd9r7Vq5ahSDn/view?usp=sharing) 
+- 📝 [Resume](https://drive.google.com/file/d/11w3PVn2N40OKlazeFKBmBRu5_ZtqB4yA/view?usp=sharing) 
 # 📫 Reach me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amit-kumar-b11a5016a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ak78158)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ak78158/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Amitkum39380689)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bit.ly/2EcCQnJ)  
 
