@@ -12,7 +12,7 @@ step is towards learning Data Science for Statistical Analysis and Machine Learn
 - 🌱 I’m currently learning Cloud Computing.
 - 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/file/d/18RnP8BbSYwM9LI4pP-tH6n41DwVcJ-We/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1GUnPDyhlfNdMJGRC2f2L3buQ7p6mDH0l/view?usp=sharing)
 
 # 📫 Reach me at:
 
