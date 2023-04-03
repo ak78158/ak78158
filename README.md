@@ -1,19 +1,18 @@
 # Hi folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Amit Kumar a Pursuing Undergraduate Student in Computer Science Engineering (CSE) from IIIT
-Nagpur with passion for new technologies, and always learning to add new skills in
-my skill set.</br>As of now, I have spent almost 3 years in learning engineering
-concepts and technologies related to Data Structure and Algorithms as well as in
-Python.
-I am also an active competitive coder, and fond of Problem Solving. My next
-step is towards learning Data Science for Statistical Analysis and Machine Learning.
+I am a highly skilled and dedicated Software Developer with over 2 years of experience in the industry. Currently, I am working at GoodWorker, where I have been involved in building various projects as a Frontend Developer.
 
-- 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently learning Cloud Computing.
+My experience also includes internships at Juspay and Frugal Testing, where I worked on challenging projects and honed my skills in different areas of software development. During my studies at IIIT Nagpur, where I pursued a degree in Computer Science Engineering, I focused on expanding my knowledge of data structures, algorithms, and web technologies.
+
+I am passionate about staying up-to-date with the latest industry trends and technologies and continuously learning and growing to provide more value to my clients. My areas of expertise include web development, competitive coding, and mathematics.
+
+If you're looking for a dedicated and experienced software developer to bring your projects to life, I would be thrilled to connect with you. Let's work together to create innovative software solutions that exceed expectations.
+
+- 🔭 I’m currently working as an SDE-1 at GoodWorker.
+- 🌱 I’m currently learning Fullstack Technology.
 - 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/file/d/1XYbPzSqxRMg_76FzvFkKZlBC-htKzNPi/view?usp=share_link)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ak78158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.facebook.com/ak78158) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-b11a5016a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Amitkum39380689) 
