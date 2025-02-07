@@ -1,8 +1,8 @@
 # Hi folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a highly skilled and dedicated Software Developer with over 2 years of experience in the industry. Currently, I am working at GoodWorker, where I have been involved in building various projects as a Frontend Developer.
+I am a highly skilled and dedicated Software Developer with almost 3 years of experience in the industry. Currently, I am working at Orange Health Labs, where I have been involved in building various projects as a SDE2 Frontend Developer.
 
-My experience also includes internships at Juspay and Frugal Testing, where I worked on challenging projects and honed my skills in different areas of software development. During my studies at IIIT Nagpur, where I pursued a degree in Computer Science Engineering, I focused on expanding my knowledge of data structures, algorithms, and web technologies.
+My experience also includes SDE-1 at Goodworker Technology and internships at Juspay and Frugal Testing, where I worked on challenging projects and honed my skills in different areas of software development. During my studies at IIIT Nagpur, where I pursued a degree in Computer Science Engineering, I focused on expanding my knowledge of data structures, algorithms, and web technologies.
 
 I am passionate about staying up-to-date with the latest industry trends and technologies and continuously learning and growing to provide more value to my clients. My areas of expertise include web development, competitive coding, and mathematics.
 
