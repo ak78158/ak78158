@@ -1,6 +1,6 @@
 # Hi folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a Software Developer with 3+ years of experience building scalable, high-performance systems across frontend, backend, and mobile platforms. At Orange Health Labs, I have led impactful projects including OMS Centralization (cutting operational costs by 10–15% and eliminating weekly slowdowns through SuperLab decoupling) and the Technician Workflow project (automating manual processes and enabling real-time task monitoring with Firestore).
+I am a Software Developer with 4+ years of experience building scalable, high-performance systems across frontend, backend, and mobile platforms. At Orange Health Labs, I have led impactful projects including OMS Centralization (cutting operational costs by 10–15% and eliminating weekly slowdowns through SuperLab decoupling) and the Technician Workflow project (automating manual processes and enabling real-time task monitoring with Firestore).
 
 Previously at GoodWorker, I optimized and rebuilt core portals, boosting performance scores from 18 to 90+ and improving hiring efficiency by 30–40%. I also contributed to cross-platform mobile app development with React Native, driving higher platform adoption.
 
